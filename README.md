@@ -1,10 +1,10 @@
 Gorilla Geek Mailer
 ===================
 
-Install from nuget: https://www.nuget.org/packages/Gorilla.Mailer/
+Install from nuget: https://www.nuget.org/packages/Gorilla.Mailer.SendGrid/
 
 ```bash
-Install-Package Gorilla.Mailer
+Install-Package Gorilla.Mailer.SendGrid
 ```
 
 How to use
