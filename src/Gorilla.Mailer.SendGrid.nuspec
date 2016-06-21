@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>Daniel Prado</authors>
+    <owners>danieloprado</owners>
+    <licenseUrl>https://opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/GorillaGeek/gorilla.mailer.sendgrid</projectUrl>
+    <iconUrl>https://avatars2.githubusercontent.com/u/10532134</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mailer for Gorilla Geek development</description>
+    <releaseNotes>Initial</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Gorilla GorillaGeek Mailer SendGrid</tags>
+  </metadata>
+</package>
