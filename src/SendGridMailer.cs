@@ -5,7 +5,7 @@ using System;
 using System.Net.Mail;
 using System.Threading.Tasks;
 
-namespace Gorilla.Mailer.Providers.SendGrid
+namespace Gorilla.Mailer.Providers
 {
     public class SendGridMailer : IMailer
     {
